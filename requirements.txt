@@ -1,0 +1,7 @@
+PyQt5==5.15.10
+openai==1.35.13
+pillow==10.3.0
+requests==2.31.0
+schedule==1.2.1
+sqlalchemy==2.0.31
+python-dotenv==1.0.1
