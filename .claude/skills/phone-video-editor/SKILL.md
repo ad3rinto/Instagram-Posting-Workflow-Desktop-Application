@@ -15,14 +15,24 @@ Ask these up front, together, before touching the file. Don't start editing unti
 2. **What should the viewer do at the end?** (follow, book, comment, click the link, DM a keyword, etc.)
 3. **Captions and graphics, or a clean cut?**
 
-## 2. Brand kit: ask once, then reuse
+## 2. Brand kit: framedbyade (fixed, don't ask)
 
-If captions or graphics are wanted, you need two brand colours (hex if they have them) and one font.
+This skill is for **framedbyade**, a photography brand built on storytelling portraits, landscapes and aerials: real moments, no stock vibes. The graphics should feel like a photo book, not a tech ad. Use this kit for every captioned or graphic edit:
 
-- First check for a saved brand kit: a `brand.md` in the working folder, the project's memory, or earlier in the conversation.
-- If none exists, ask once. Then save it to `brand.md` (or memory, if available) so you never ask again.
-- If you genuinely can't persist it in this environment, say so and give them a one-line brand note to paste next time.
-- If the font isn't installed, use the closest available match and tell them which one you used.
+| Role | Name | Hex | Use |
+|---|---|---|---|
+| Colour 1 | Bone | `#F2EDE4` | Caption text, titles, end card text. Warm paper white, softer than pure white on skin tones and skies. |
+| Colour 2 | Golden Hour | `#C8783F` | Accent only: the one highlighted word per caption, thin rules, the CTA on the end card. Never full paragraphs. |
+| Font | Fraunces | (Google Fonts, free) | Everything. Medium/SemiBold for captions, Light Italic for short titles and the end-card line. |
+
+Rules for using it:
+
+- Captions: Bone, Fraunces SemiBold, with a soft dark shadow (black at about 40% opacity, small blur) for legibility. No solid boxes or bubbles unless the footage is too busy to read without one.
+- Highlight at most one word per caption line in Golden Hour. Restraint is the brand.
+- Keep text clear of the bottom 20% and right edge of the frame, where the platform UI sits.
+- End card: the CTA from question 2, in Fraunces, Bone on the darkened last frame, with the action word in Golden Hour. Add the `@framedbyade` handle beneath it.
+- Font fallback if Fraunces isn't installed: download it from Google Fonts (OFL licence). If that's not possible, use Georgia and tell them you did.
+- If the person gives different colours or a different font for a specific video, use theirs for that video. They're the director.
 
 ## 3. Golden rule: never change the original
 
@@ -73,4 +83,4 @@ If the video is dark, shaky, out of focus, or the audio is rough (wind, echo, hu
 
 ## If there's no footage yet
 
-Don't invent a test. Ask them to send a clip (phone-recorded, under a minute is easiest) or describe what they want the test to show, then ask the three questions and collect the brand kit.
+Don't invent a test. Ask them to send a clip (phone-recorded, under a minute is easiest) or describe what they want the test to show, then ask the three questions. The brand kit is already set (section 2).
